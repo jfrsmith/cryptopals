@@ -1,0 +1,10 @@
+[package]
+name = "cryptopals"
+version = "0.1.0"
+authors = ["Jack <jfrsmith@me.com>"]
+
+[dependencies]
+rustc-serialize = "0.3"
+hamming = "0.1"
+rust-crypto = "0.2.36"
+itertools = "0.6.0"
